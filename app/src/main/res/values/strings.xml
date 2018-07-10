@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hoxton Salaat Times</string>
+    <string name="salaat_name_hint">Salaat Name</string>
+    <string name="jamaat_time_hint">05:00</string>
+    <string name="begin_time_hint">04:30</string>
+    <string name="fajar">Fajr</string>
+    <string name="zohar">Dhohar</string>
+    <string name="jummah">Jummah</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="begins">Begins</string>
+    <string name="jamaat">Jamaat</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fajar">فجر</string>
+    <string name="zohar">ظهر</string>
+    <string name="jummah">جمعة</string>
+    <string name="asr">عصر</string>
+    <string name="maghrib">مغرب</string>
+    <string name="isha">عشاء</string>
+    <string name="begins">ابدأ</string>
+    <string name="jamaat">جماعة</string>
+</resources>
